@@ -1,0 +1,582 @@
+Name	Handle	Party
+Donna Brazile	@donnabrazile	Democrat
+Nancy Pelosi	@NancyPelosi	Democrat
+The Democrats	@TheDemocrats	Democrat
+Joe Biden	@JoeBiden	Democrat
+Senator Harry Reid	@SenateDems	Democrat
+House Democrats	@HouseDemocrats	Democrat
+Senate Democrats	@SenateDems	Democrat
+People For Bernie	@People4Bernie	Democrat
+D Wasserman Schultz	@DWStweets	Democrat
+(((R.Saddler)))	@Politics_PR	Democrat
+Propane Jane	@docrocktex26	Democrat
+Brandon Cloud	@theclobra	Democrat
+Skook	@skookerG	Democrat
+Madeleine Albright	@madeleine	Democrat
+McSpocky	@mcspocky	Democrat
+KHARY PENEBAKER	@kharyp	Democrat
+Nonprofit Quarterly	@npquarterly	Democrat
+EMILY's List	@emilyslist	Democrat
+AR Democrat-Gazette	@ArkansasOnline	Democrat
+Rapunzel	@co_rapunzel4	Democrat
+AppSame	@AppSame	Republican
+Sarah Palin	@SarahPalinUSA	Republican
+"I'm Chuck, Dude! :)"	@ChuckNellis	Republican
+Michelle Malkin	@michellemalkin	Republican
+CC	@ChristiChat	Republican
+Deplorable Carmine Z	@CarmineZozzora	Republican
+Pray Always!	@erotao	Republican
+GOP	@GOP	Republican
+Dr. Marty Fox	@DrMartyFox	Republican
+Carly Fiorina	@CarlyFiorina	Republican
+Max Emfinger Patriot	@EmfingerSScout	Republican
+Anna Maria Perez	@A_M_Perez	Republican
+Lori Hendry	@Lrihendry	Republican
+(((Lady Patriot)))	@marylene58	Republican
+Reince Priebus	@Reince	Republican
+House Republicans	@HouseGOP	Republican
+Meghan McCain	@MeghanMcCain	Republican
+Judy Stines Ex-GOP	@jstines3	Republican
+Daniel Hannan	@DanielJHannan	Republican
+Rick Wilson	@TheRickWilson	Republican
+Richard Shelby	@SenShelby	Republican
+Tommy Tuberville	@Ttuberville	Republican
+Jerry Carl	@RepJerryCarl	Republican
+Barry Moore	@RepBarryMoore	Republican
+Mike Rogers	@RepMikeRogers	Republican
+Robert Aderholt	@Robert_Aderholt	Republican
+Mo Brooks	@RepMoBrooks	Republican
+Gary Palmer	@USRepGaryPalmer	Republican
+Terri A. Sewell	@RepTerriSewell	Democrat
+Dan Sullivan	@SenDanSullivan	Republican
+Lisa Murkowski	@lisamurkowski	Republican
+Don Young	@RepDonYoung	Republican
+Amata Radewagen	@RepAmata	Republican
+Mark Kelly	@SenMarkKelly	Democrat
+Kyrsten Sinema	@SenatorSinema	Democrat
+Tom O'Halleran	@TomOHalleran	Democrat
+Ann Kirkpatrick	@RepKirkPatrick	Democrat
+Raul Grijalva	@RepRaulGrijalva	Democrat
+Paul A. Gosar	@RepGosar	Republican
+Andy Biggs	@AndyBiggs4AZ	Republican
+David Schweikert	@RepDavid	Republican
+Ruben Gallego	@RepRubenGallego	Democrat
+Debbie Lesko	@RepDLesko	Republican
+Greg Stanton	@RepGregStanton	Democrat
+Tom Cotton	@SenTomCotton	Republican
+John Boozman	@JohnBoozman	Republican
+Rick Crawford	@RepRickCrawford	Republican
+French Hill	@RepFrenchHill	Republican
+Steve Womack	@rep_stevewomack	Republican
+Bruce Westerman	@RepWesterman	Republican
+Dianne Feinstein	@SenFeinstein	Democrat
+Alex Padilla	@KamalaHarris	Democrat
+Doug LaMalfa	@RepLaMalfa	Republican
+Jared Huffman	@RepHuffman	Democrat
+John Garamendi	@RepGaramendi	Democrat
+Tom McClintock	@RepMcClintock	Republican
+Mike Thompson	@RepThompson	Democrat
+Doris O. Matsui	@DorisMatsui	Democrat
+Ami Bera	@RepBera	Democrat
+Jay Obernolte	@JayObernolte	Republican
+Jerry McNerney	@RepMcNerney	Democrat
+Josh Harder	@RepJoshHarder	Democrat
+Mark DeSaulnier	@RepDeSaulnier	Democrat
+Nancy Pelosi	@SpeakerPelosi	Democrat
+Barbara Lee	@RepBarbaraLee	Democrat
+Jackie Speier	@RepSpeier	Democrat
+Eric Swalwell	@RepSwalwell	Democrat
+Jim Costa	@RepJimCosta	Democrat
+Ro Khanna	@RoKhannaUSA	Democrat
+Anna G. Eshoo	@RepAnnaEshoo	Democrat
+Zoe Lofgren	@RepZoeLofgren	Democrat
+Jimmy Panetta	@JimmyPanetta	Democrat
+David Valadao	@RepDavidValadao	Republican
+Devin Nunes	@DevinNunes	Republican
+Kevin McCarthy	@GOPLeader	Republican
+Salud Carbajal	@CarbajalSalud	Democrat
+Mike Garcia	@MikeGarcia2020	Republican
+Julia Brownley	@RepBrownley	Democrat
+Judy Chu	@RepJudyChu	Democrat
+Adam Schiff	@RepAdamSchiff	Democrat
+Tony C�rdenas	@RepCardenas	Democrat
+Brad Sherman	@BradSherman	Democrat
+Pete Aguilar	@RepPeteAguilar	Democrat
+Grace Napolitano	@gracenapolitano	Democrat
+Ted Lieu	@RepTedLieu	Democrat
+Jimmy Gomez	@RepJimmyGomez	Democrat
+Norma Torres	@NormaJTorres	Democrat
+Raul Ruiz	@RepRaulRuizMD	Democrat
+Karen Bass	@RepKarenBass	Democrat
+Linda S�nchez	@RepLindaSanchez	Democrat
+Young Kim	@YoungKimCA	Republican
+Lucille Roybal-Allard	@RepRoybalAllard	Democrat
+Mark Takano	@RepMarkTakano	Democrat
+Ken Calvert	@KenCalvert	Republican
+Maxine Waters	@MaxineWaters	Democrat
+Nanette Barragan	@Nanette4CA	Democrat
+Katie Porter	@RepKatiePorter	Democrat
+Lou Correa	@RepLouCorrea	Democrat
+Alan Lowenthal	@RepLowenthal	Democrat
+Michelle Steel	@MichelleSteelCA	Republican
+Mike Levin	@RepMikeLevin	Democrat
+Darrell Issa	@DarrellIssa	Republican
+Juan Vargas	@RepJuanVargas	Democrat
+Scott Peters	@RepScottPeters	Democrat
+Sara Jacobs	@SaraJacobsCA	Democrat
+Michael Bennet	@MichaelBennet	Democrat
+John Hickenlooper	@SenatorHick	Democrat
+Diana DeGette	@RepDianaDeGette	Democrat
+Joe Neguse	@RepJoeNeguse	Republican
+Lauren Boebert	@laurenboebert	Republican
+Ken Buck	@RepKenBuck	Republican
+Doug Lamborn	@RepDLamborn	Republican
+Jason Crow	@RepJasonCrow	Democrat
+Ed Perlmutter	@RepPerlmutter	Democrat
+Chris Murphy	@ChrisMurphyCT	Democrat
+Richard Blumenthal	@SenBlumenthal	Democrat
+John B. Larson	@RepJohnLarson	Democrat
+Joe Courtney	@RepJoeCourtney	Democrat
+Rosa L. DeLauro	@rosadelauro	Democrat
+Jim Himes	@jahimes	Democrat
+Jahana Hayes	@RepJahanaHayes	Democrat
+Chris Coons	@SenCoonsOffice	Democrat
+Tom Carper	@SenatorCarper	Democrat
+Lisa Blunt Rochester	@LisaBRochester	Democrat
+Eleanor Holmes Norton	@EleanorNorton	Democrat
+Marco Rubio	@marcorubio	Republican
+Rick Scott	@ScottforFlorida	Republican
+Matt Gaetz	@MattGaetz	Republican
+Neal Dunn	@DrNealDunnFL2	Republican
+Kat Cammack	@Kat_Cammack	Republican
+John Rutherford	@JRutherfordFL	Republican
+Al Lawson	@AlLawsonJr	Democrat
+Michael Waltz	@RepMichaelWaltz	Republican
+Stephanie Murphy	@SMurphyCongress	Democrat
+Bill Posey	@congbillposey	Republican
+Darren Soto	@RepDarrenSoto	Democrat
+Val Demings	@Val_Demings	Democrat
+Daniel Webster	@RepWebster	Republican
+Gus M. Bilirakis	@RepGusBilirakis	Republican
+Charlie Crist	@CharlieCrist	Democrat
+Kathy Castor	@USRepKCastor	Democrat
+Scott Franklin	@ScottFranklinFL	Republican
+Vern Buchanan	@VernBuchanan	Republican
+W. Gregory Steube	@RepGregSteube	Republican
+Brian Mast	@BrianMastFL	Republican
+Francis Rooney	@FrancisRooney	Republican
+Alcee L. Hastings	@RepHastingsFL	Democrat
+Lois Frankel	@RepLoisFrankel	Democrat
+Ted Deutch	@RepTedDeutch	Democrat
+Debbie Wasserman Schultz	@RepDWStweets	Democrat
+Frederica Wilson	@RepWilson	Democrat
+Mario Diaz-Balart	@MarioDB	Republican
+Carlos Gim�nez	@RepCarlos	Republican
+Maria Elvira Salazar	@MaElviraSalazar	Republican
+Jon Ossoff	@ossoff	Democrat
+Raphael Warnock	@ReverendWarnock	Democrat
+Buddy Carter	@RepBuddyCarter	Republican
+Sanford D. Bishop Jr.	@SanfordBishop	Democrat
+Drew Ferguson	@DrewFergusonGA	Republican
+Henry C. �Hank� Jr. Johnson	@RepHankJohnson	Democrat
+Nikema Williams	@NikemaWilliams	Democrat
+Lucy McBath	@RepLucyMcBath	Democrat
+Carolyn Bourdeaux	@RepBourdeaux	Democrat
+Austin Scott	@AustinScottGA08	Republican
+Andrew Clyde		Republican
+Jody Hice	@CongressmanHice	Republican
+Barry Loudermilk	@RepLoudermilk	Republican
+Rick Allen	@RepRickAllen	Republican
+David Scott	@repdavidscott	Democrat
+Marjorie Taylor Greene	@mtgreenee	Republican
+Michael F.Q. San Nicolas	@GuamCongressman	Democrat
+Brian Schatz	@SenBrianSchatz	Democrat
+Mazie Hirono	@maziehirono	Democrat
+Ed Case	@RepEdCase	Democrat
+Kai Kahele	@kaikahele	Democrat
+Jim Risch	@SenatorRisch	Republican
+Mike Crapo	@MikeCrapo	Republican
+Russ Fulcher	@RepRussFulcher	Republican
+Mike Simpson	@CongMikeSimpson	Republican
+Tammy Duckwort	@SenDuckworth	Democrat
+Richard Durbin	@SenatorDurbin	Democrat
+Bobby L. Rush	@RepBobbyRush	Democrat
+Robin Kelly	@RepRobinKelly	Democrat
+Marie Newman	@RepMarieNewman	Democrat
+Jesus �Chuy� Garcia	@RepChuyGarcia	Democrat
+Mike Quigley	@RepMikeQuigley	Democrat
+Sean Casten	@RepCasten	Democrat
+Danny K. Davis	@RepDannyDavis	Democrat
+Raja Krishnamoorthi	@RajaForCongress	Democrat
+Jan Schakowsky	@janschakowsky	Democrat
+Bradley Schneider	@RepSchneider	Democrat
+Bill Foster	@RepBillFoster	Democrat
+Mike Bost	@RepBost	Republican
+Rodney Davis	@RodneyDavis	Republican
+Lauren Underwood	@RepUnderwood	Democrat
+Mary Miller	@RepMaryMiller	Republican
+Adam Kinzinger	@RepKinzinger	Republican
+Cheri Bustos	@RepCheri	Democrat
+Darin LaHood	@ElectLaHood	Republican
+Mike Braun	@Braun4Indiana	Republican
+Todd Young	@SenToddYoung	Republican
+Frank Mrvan	@RepMrvan	Democrat
+Jackie Walorski	@RepWalorski	Republican
+Jim Banks	@Jim_Banks	Republican
+James Baird	@RepJimBaird	Republican
+Victoria Spartz	@Victoria_Spartz	Republican
+Greg Pence	@RepGregPence	Republican
+Andr� Carson	@RepAndreCarson	Democrat
+Larry Bucshon	@RepLarryBucshon	Republican
+Trey Hollingsworth	@VoteForTrey	Republican
+Chuck Grassley	@ChuckGrassley	Republican
+Joni Ernst	@SenJoniErnst	Republican
+Ashley Hinson	@RepAshleyHinson	Republican
+Mariannette Miller-Meeks	@RepMMM	Republican
+Cynthia Axne	@RepCindyAxne	Democrat
+Randy Feenstra	@RandyFeenstra	Republican
+Roger Marshall	@RogerMarshallMD	Republican
+Jerry Moran	@JerryMoran	Republican
+Tracey Mann	@TraceyMannKS	Republican
+Jake LaTurner	@JakeLaTurner	Republican
+Sharice Davids	@sharicedavids	Democrat
+Ron Estes	@RepRonEstes	Republican
+Rand Paul	@RandPaul	Republican
+Mitch McConnell	@McConnellPress	Republican
+James Comer	@JamesComer	Republican
+S. Brett Guthrie	@RepGuthrie	Republican
+John A. Yarmuth	@RepJohnYarmuth	Democrat
+Thomas Massie	@RepThomasMassie	Republican
+Harold Rogers	@RepHalRogers	Republican
+Andy Barr	@RepAndyBarr	Republican
+John Kennedy	@JohnKennedyLA	Republican
+Bill Cassidy	@BillCassidy	Republican
+Steve Scalise	@SteveScalise	Republican
+Cedric Richmond	@RepRichmond	Democrat
+Clay Higgins	@CaptClayHIggins	Republican
+Mike Johnson	@RepMikeJohnson	Republican
+Vacant		Democrat
+Garret Graves	@RepGarretGraves	Republican
+Angus King	@SenAngusKing	Democrat
+Susan Collins	@SenatorCollins	Republican
+Chellie Pingree	@chelliepingree	Democrat
+Jared Golden	@RepGolden	Democrat
+Chris Van Hollen	@ChrisVanHollen	Democrat
+Benjamin Cardin	@SenatorCardin	Democrat
+Andy Harris	@RepAndyHarrisMD	Republican
+C. A. Dutch Ruppersberger	@Call_Me_Dutch	Democrat
+John P. Sarbanes	@RepSarbanes	Democrat
+Anthony Brown	@RepAnthonyBrown	Democrat
+Steny H. Hoyer	@LeaderHoyer	Democrat
+David Trone	@RepDavidTrone	Democrat
+Kweisi Mfume	@Mfume4Congress	Democrat
+Jamie Raskin	@Jamie_Raskin	Democrat
+Elizabeth Warren	@SenWarren	Democrat
+Edward Markey	@SenMarkey	Democrat
+Richard E. Neal	@RepRichardNeal	Democrat
+James McGovern	@RepMcGovern	Democrat
+Lori Trahan	@RepLoriTrahan	Democrat
+Jake Auchincloss	@JakeAuch	Democrat
+Katherine Clark	@RepKClark	Democrat
+Seth Moulton	@teammoulton	Democrat
+Ayanna Pressley	@RepPressley	Democrat
+Stephen F. Lynch	@RepStephenLynch	Democrat
+William Keating	@USRepKeating	Democrat
+Debbie Stabenow	@SenStabenow	Democrat
+Gary Peters	@SenGaryPeters	Democrat
+Jack Bergman	@JackBergman_MI1	Republican
+Bill Huizenga	@RepHuizenga	Republican
+Peter Meijer	@VoteMeijer	Republican
+John Moolenaar	@RepMoolenaar	Republican
+Daniel Kildee	@RepDanKildee	Democrat
+Fred Upton	@RepFredUpton	Republican
+Tim Walberg	@RepWalberg	Republican
+Elissa Slotkin	@RepSlotkin	Democrat
+Andy Levin	@RepAndyLevin	Democrat
+Lisa McClain	@LisaForCongress	Republican
+Haley Stevens	@RepHaleyStevens	Democrat
+Debbie Dingell	@RepDebDingell	Democrat
+Rashida Tlaib	@RepRashida	Democrat
+Brenda Lawrence	@RepLawrence	Democrat
+Amy Klobuchar	@amyklobuchar	Democrat
+Tina Smith	@SenTinaSmith	Democrat
+Jim Hagedorn	@RepHagedorn	Republican
+Angie Craig	@RepAngieCraig	Democrat
+Dean Phillips	@RepDeanPhillips	Democrat
+Betty McCollum	@BettyMcCollum04	Democrat
+Ilhan Omar	@IlhanMN	Democrat
+Tom Emmer	@RepTomEmmer	Republican
+Michelle Fischbach	@FischbachMN7	Republican
+Pete Stauber	@RepPeteStauber	Republican
+Roger Wicker	@SenatorWicker	Republican
+Cindy Hyde-Smith	@SenHydeSmith	Republican
+Trent Kelly	@RepTrentKelly	Republican
+Bennie G. Thompson	@BennieGThompson	Democrat
+Michael Guest	@RepMichaelGuest	Republican
+Steven Palazzo	@CongPalazzo	Republican
+Josh Hawley	@HawleyMO	Republican
+Roy Blunt	@RoyBlunt	Republican
+Cori Bush	@CoriBush	Democrat
+Ann Wagner	@RepAnnWagner	Republican
+Blaine Luetkemeyer	@RepBlaine	Republican
+Vicky Hartzler	@RepHartzler	Republican
+Emanuel Cleaver	@repcleaver	Democrat
+Sam Graves	@RepSamGraves	Republican
+Billy Long	@USRepLong	Republican
+Jason Smith	@RepJasonSmith	Republican
+Jon Tester	@SenatorTester	Democrat
+Steve Daines	@SteveDaines	Republican
+Matt Rosendale	@MattForMontana	Republican
+Ben Sasse	@SenSasse	Republican
+Deb Fischer	@SenatorFischer	Republican
+Jeff Fortenberry	@JeffFortenberry	Republican
+Don Bacon	@RepDonBacon	Republican
+Adrian Smith	@RepAdrianSmith	Republican
+Jacky Rosen	@SenJackyRosen	Democrat
+Catherine Cortez Mastro	@CatherineForNV	Democrat
+Dina Titus	@repdinatitus	Democrat
+Mark Amodei	@MarkAmodeiNV2	Republican
+Susie Lee	@RepSusieLee	Democrat
+Steven Horsford	@RepHorsford	Democrat
+Jeanne Shaheen	@SenatorShaheen	Democrat
+Maggie Hassan	@Maggie_Hassan	Democrat
+Chris Pappas	@RepChrisPappas	Democrat
+Ann Kuster	@RepAnnieKuster	Democrat
+Robert Menendez	@SenatorMenendez	Democrat
+Cory Booker	@CoryBooker	Democrat
+Donald Norcross	@DonNorcross4NJ	Democrat
+Jefferson Van Drew	@JeffVanDrew	Democrat
+Andy Kim	@RepAndyKimNJ	Democrat
+Chris Smith	@RepChrisSmith	Republican
+Josh Gottheimer	@JoshGottheimer	Democrat
+Frank Pallone Jr.	@FrankPallone	Democrat
+Tom Malinowski	@RepMalinowski	Democrat
+Albio Sires	@RepSires	Democrat
+Bill Pascrell Jr.	@BillPascrell	Democrat
+Donald Payne Jr.	@RepDonaldPayne	Democrat
+Mikie Sherrill	@RepSherrill	Democrat
+Bonnie Watson Coleman	@RepBonnie	Democrat
+Ben Ray Luj�n	@SenatorLujan	Democrat
+Martin Heinrich	@MartinHeinrich	Democrat
+Debra Haaland	@RepDebHaaland	Democrat
+Yvette Herrell	@Yvette4congress	Republican
+Teresa Leger Fernandez	@TeresaForNM	Democrat
+Chuck Schumer	@SenSchumer	Democrat
+Kirsten Gillibrand	@SenGillibrand	Democrat
+Lee Zeldin	@RepLeeZeldin	Republican
+Andrew Garbarino		Republican
+Tom Suozzi	@Tom_Suozzi	Democrat
+Kathleen Rice	@RepKathleenRice	Democrat
+Gregory W. Meeks	@RepGregoryMeeks	Democrat
+Grace Meng	@RepGraceMeng	Democrat
+Nydia M. Vel�zquez	@NydiaVelazquez	Democrat
+Hakeem Jeffries	@RepJeffries	Democrat
+Yvette D. Clarke	@RepYvetteClarke	Democrat
+Jerrold Nadler	@RepJerryNadler	Democrat
+Nicole Malliotakis	@Nmalliotakis	Democrat
+Carolyn Maloney	@RepMaloney	Democrat
+Adriano Espaillat	@EspaillatNY	Democrat
+Alexandria Ocasio-Cortez	@RepAOC	Democrat
+Ritchie Torres	@RitchieTorres	Democrat
+Jamaal Bowman	@JamaalBowmanNY	Democrat
+Mondaire Jones	@MondaireJones	Democrat
+Sean Patrick Maloney	@RepSeanMaloney	Democrat
+Antonio Delgado	@RepDelgado	Democrat
+Paul D. Tonko	@RepPaulTonko	Democrat
+Elise Stefanik	@RepStefanik	Republican
+Claudia Tenney	@claudiatenney	Republican
+Tom Reed	@RepTomReed	Republican
+John Katko	@RepJohnKatko	Republican
+Joseph Morelle	@RepJoeMorelle	Democrat
+Brian Higgins	@RepBrianHiggins	Democrat
+Chris Jacobs	@jacobsny27	Republican
+Thom Tillis	@SenThomTillis	Republican
+Richard Burr	@SenatorBurr	Republican
+G.K. Butterfield	@GKButterfield	Democrat
+Deborah K. Ross	@DeborahRossNC	Democrat
+Greg Murphy	@RepGregMurphy	Republican
+David Price	@RepDavidEPrice	Democrat
+Virginia Foxx	@virginiafoxx	Republican
+Kathy Manning	@KathyManningNC	Democrat
+David Rouzer	@RepDavidRouzer	Republican
+Richard Hudson	@RepRichHudson	Republican
+Dan Bishop	@jdanbishop	Republican
+Patrick T. McHenry	@PatrickMcHenry	Republican
+Madison Cawthorn	@CawthornforNC	Republican
+Alma Adams	@RepAdams	Democrat
+Ted Budd	@BuddforCongress	Republican
+John Hoeven	@SenJohnHoeven	Republican
+Kevin Cramer	@SenKevinCramer	Republican
+Kelly Armstrong	@RepArmstrongND	Republican
+Gregorio Sablan	@Kilili_Sablan	Democrat
+Rob Portman	@senrobportman	Republican
+Sherrod Brown	@SenSherrodBrown	Democrat
+Steve Chabot	@RepSteveChabot	Republican
+Brad Wenstrup	@RepBradWenstrup	Republican
+Joyce Beatty	@RepBeatty	Democrat
+Jim Jordan	@Jim_Jordan	Republican
+Robert E. Latta	@boblatta	Republican
+Bill Johnson	@RepBillJohnson	Republican
+Bob Gibbs	@RepBobGibbs	Republican
+Warren Davidson	@WarrenDavidson	Republican
+Marcy Kaptur	@RepMarcyKaptur	Democrat
+Michael Turner	@RepMikeTurner	Republican
+Marcia L. Fudge	@RepMarciaFudge	Democrat
+Troy Balderson	@RepBalderson	Republican
+Tim Ryan	@RepTimRyan	Democrat
+David Joyce	@RepDaveJoyce	Republican
+Steve Stivers	@RepSteveStivers	Republican
+Anthony Gonzalez	@RepAGonzalez	Republican
+James Lankford	@SenatorLankford	Republican
+Jim Inhofe	@InhofePress	Republican
+Kevin Hern	@RepKevinHern	Republican
+Markwayne Mullin	@RepMullin	Republican
+Frank Lucas	@RepFrankLucas	Republican
+Tom Cole	@TomColeOK04	Republican
+Stephanie Bice	@stephaniebice	Republican
+Ron Wyden	@RonWyden	Democrat
+Jeff Merkley	@SenJeffMerkley	Democrat
+Suzanne Bonamici	@RepBonamici	Democrat
+Cliff Bentz	@RepBentz	Republican
+Earl Blumenauer	@repblumenauer	Democrat
+Peter DeFazio	@RepPeterDeFazio	Democrat
+Kurt Schrader	@RepSchrader	Democrat
+Jenniffer Gonzalez-Colon	@Jenniffer2012	Republican
+Patrick Toomey	@SenToomey	Republican
+Bob Jr. Casey	@SenBobCasey	Democrat
+Brady Fitzpatrick	@RepBrianFitz	Republican
+Brendan Boyle	@CongBoyle	Democrat
+Dwight Evans	@RepDwightEvans	Democrat
+Madeleine Dean	@RepDean	Democrat
+Mary-Gay Scanlon	@RepMGS	Democrat
+Chrissy Houlahan	@RepHoulahan	Democrat
+Susan Wild	@RepSusanWild	Democrat
+Matt Cartwright	@RepCartwright	Democrat
+Daniel Meuser	@RepMeuser	Republican
+Scott Perry	@RepScottPerry	Republican
+Lloyd Smucker	@RepLloyd	Republican
+Fred Keller	@RepFredKelle	Republican
+John Joyce	@RepJohnJoyce	Republican
+Guy Reschenthaler	@GReschenthaler	Republican
+Glenn Thompson	@CongressmanGT	Republican
+Mike Kelly	@MikeKellyforPA	Republican
+Conor Lamb	@RepConorLamb	Democrat
+Michael Doyle	@USRepMikeDoyle	Democrat
+Sheldon Whitehouse	@SenWhitehouse	Democrat
+Jack Reed	@SenJackReed	Democrat
+David Cicilline	@RepCicilline	Democrat
+Jim Langevin	@jimlangevin	Democrat
+Tim Scott	@SenatorTimScott	Republican
+Lindsey Graham	@LindsayGrahamSC	Republican
+Nancy Mace	@NancyMace	Republican
+Joe Wilson	@RepJoeWilson	Republican
+Jeff Duncan	@RepJeffDuncan	Republican
+William Timmons	@RepTimmons	Republican
+Ralph Norman	@RepRalphNorman	Republican
+James E. Clyburn	@WhipClyburn	Democrat
+Tom Rice	@RepTomRice	Republican
+John Thune	@SenJohnThune	Republican
+Mike Rounds	@SenatorRounds	Republican
+Dusty Johnson	@RepDustyJohnson	Republican
+Marsha Blackburn	@MarshaBlackburn	Republican
+Bill Hagerty	@BillHagertyTN	Republican
+Diana Harshbarger	@DHarshbargerTN1	Republican
+Tim Burchett	@RepTimBurchett	Republican
+Chuck Fleischmann	@RepChuck	Republican
+Scott DesJarlais	@DesJarlaisTN04	Republican
+Jim Cooper	@repjimcooper	Democrat
+John W. Rose	@RepJohnRose	Republican
+Mark Green	@RepMarkGreen	Republican
+David Kustoff	@DavidKustoff	Republican
+Steve Cohen	@RepCohen	Democrat
+Ted Cruz	@SenTedCruz	Republican
+John Cornyn	@JohnCornyn	Republican
+Louie Gohmert	@replouiegohmert	Republican
+Dan Crenshaw	@RepDanCrenshaw	Republican
+Van Taylor	@RepVanTaylor	Republican
+Pat Fallon	@FallonForTexas	Republican
+Lance Gooden	@Lancegooden	Republican
+Ron Wright	@RepRonWright	Republican
+Lizzie Fletcher	@RepFletcher	Democrat
+Kevin Brady	@RepKevinBrady	Republican
+Al Green	@RepAlGreen	Democrat
+Michael T. McCaul	@RepMcCaul	Republican
+August Pfluger	@AugustPfluger	Republican
+Kay Granger	@RepKayGranger	Republican
+Ronny Jackson	@RonnyJacksonTX	Republican
+Randy Weber	@TXRandy14	Republican
+Vincente Gonzalez	@RepGonzalez	Democrat
+Veronica Escobar	@RepEscobar	Democrat
+Pete Sessions	@SessionsTX17	Republican
+Sheila Jackson Lee	@JacksonLeeTX18	Democrat
+Jodey Arrington	@JodeyArrington	Republican
+Joaquin Castro	@JoaquinCastrotx	Democrat
+Chip Roy	@RepChipRoy	Republican
+Troy Nehls	@SheriffTNehls	Republican
+Tony Gonzales	@TonyGonzales4TX	Republican
+Beth Van Duyne	@Bethvanduyne	Republican
+Roger Williams	@RepRWilliams	Republican
+Michael Burgess	@michaelcburgess	Republican
+Michael Cloud	@RepCloudTX	Republican
+Henry Cuellar	@RepCuellar	Democrat
+Sylvia Garcia	@RepSylviaGarcia	Democrat
+Eddie Bernice Johnson	@RepEBJ	Democrat
+John Carter	@JudgeCarter	Republican
+Colin Allred	@RepColinAllred	Democrat
+Marc Veasey	@RepVeasey	Democrat
+Filemon Vela	@RepFilemonVela	Democrat
+Lloyd Doggett	@RepLloydDoggett	Democrat
+Brian Babin	@RepBrianBabin	Republican
+Mike Lee	@SenMikeLee	Republican
+Mitt Romney	@SenatorRomney	Republican
+Blake Moore	@RepBlakeMoore	Republican
+Chris Stewart	@RepChrisStewart	Republican
+John R. Curtis	@RepJohnCurtis	Republican
+Burgess Owens	@BurgessOwens	Republican
+Bernie Sanders	@SenSanders	Democrat
+Patrick Leahy	@SenatorLeahy	Democrat
+Peter Welch	@PeterWelch	Democrat
+Mark Warner	@MarkWarner	Democrat
+Tim Kaine	@timkaine	Democrat
+Robert J. Wittman	@RobWittman	Republican
+Elaine Luria	@RepElaineLuria	Democrat
+Robert C. Scott	@BobbyScott	Democrat
+Donald McEacchin	@Donald_McEachin	Republican
+Bob Good	@GoodForCongress	Republican
+Ben Cline	@RepBenCline	Republican
+Abigail Spanberger	@RepSpanberger	Democrat
+Don Beyer	@RepDonBeyer	Democrat
+Morgan Griffith	@RepMGriffith	Republican
+Jennifer Wexton	@RepWexton	Democrat
+Gerald E. �Gerry� Connolly	@GerryConnolly	Democrat
+Stacey Plaskett	@StaceyPlaskett	Democrat
+Patty Murray	@PattyMurray	Democrat
+Maria Cantwell	@SenatorCantwell	Democrat
+Suzan DelBene	@RepDelBene	Democrat
+Rick Larsen	@RepRickLarsen	Democrat
+Jaime Herrera Beutler	@HerreraBeutler	Republican
+Dan Newhouse	@RepNewhouse	Republican
+Cathy McMorris Rodgers	@cathymcmorris	Republican
+Derek Kilmer	@RepDerekKilmer	Democrat
+Pramila Jayapal	@PramilaJayapal	Democrat
+Kim Schrier	@RepKimSchrier	Democrat
+Adam Smith	@RepAdamSmith	Democrat
+Marilyn Strickland	@StricklandforWA	Democrat
+Joe Manchin	@Sen_JoeManchin	Democrat
+Shelley Moore Capito	@SenCapito	Republican
+David McKinley	@RepMcKinley	Republican
+Alex Mooney	@RepAlexMooney	Republican
+Carol Miller	@RepCarolMiller	Republican
+Ron Johnson	@SenRonJohnson	Republican
+Tammy Baldwin	@SenatorBaldwin	Democrat
+Bryan Steil	@RepBryanSteil	Democrat
+Mark Pocan	@repmarkpocan	Democrat
+Ron Kind	@RepRonKind	Democrat
+Gwen Moore	@RepGwenMoore	Democrat
+Scott Fitzgerald	@FitzgeraldForWI	Republican
+Glenn Grothman	@RepGrothman	Republican
+Thomas Tiffany	@TomTiffanyWI	Republican
+Mike Gallagher	@MikeforWI	Republican
+Cynthia Lummis	@SenLummis	Republican
+John Barrasso	@SenJohnBarrasso	Republican
+Liz Cheney	@Liz_Cheney	Republican
