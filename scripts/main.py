@@ -25,7 +25,8 @@ def main(download_data=False, dry_run=False):
             compressed_file = 'tweetsdf.bz2'
         tweetdf = pd.read_pickle(DATA_DIR / compressed_file, compression='bz2')
         tweetdf = an.get_party_names(tweetdf, HANDLES_PATH)
-        pt.plot_wordcloud(tweetdf)
+
+        # pt.plot_wordcloud(tweetdf)
         # Vectorize
         cv_binary_vecs = vc.vectorize_reviews_sklearn_countvec_binary(tweetdf)
         cv_vecs = vc.vectorize_reviews_sklearn_countvec(tweetdf)
@@ -37,7 +38,7 @@ def main(download_data=False, dry_run=False):
 
         mymodels = [bernoulliNB_model, multinomialNB_model, multinomialNB_model_tfidf]
         myvecs = [cv_binary_vecs, cv_vecs, tfidf_vecs]
-        return 
+        return None
     
 
 if __name__ == "__main__":

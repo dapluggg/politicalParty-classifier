@@ -168,16 +168,16 @@ def train_bernoulliNB(features, labels, classes, folds=5):
     }
     top_features = pd.DataFrame(top_features).sort_values('score', ascending=False)
     print(top_features.columns)
-    # print(top_features['feature'].head(n=20))
-    # print('\n')
-    # print('Important words (Republican):')
-    # print(top_features['feature'].tail(n=20))
-    # print('\n')
-    # print(f'Average F1-Score: {np.mean(f1scores)}')
-    # print('\n')
-    # print(f'Average Accuracy: {np.mean(accuracies)}')
-    # pprint.pprint(confusions)
-    # print('\n\n\n')
+    print(top_features['feature'].head(n=20))
+    print('\n')
+    print('Important words (Republican):')
+    print(top_features['feature'].tail(n=20))
+    print('\n')
+    print(f'Average F1-Score: {np.mean(f1scores)}')
+    print('\n')
+    print(f'Average Accuracy: {np.mean(accuracies)}')
+    pprint.pprint(confusions)
+    print('\n\n\n')
 
 
     return None

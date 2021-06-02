@@ -63,6 +63,3 @@ def plot_wordcloud(tweetsdf):
     plt.savefig('../plots/DemRep-WordCloud.png')
 
     return None
-
-comment_words = ''
-stopwords = set(STOPWORDS)
